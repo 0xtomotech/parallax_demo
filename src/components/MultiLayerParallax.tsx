@@ -32,7 +32,7 @@ const MultiLayerParallax = () => {
             className="text-white text-2xl md:text-4xl font-semibold p-8 mt-3 z-30"
             style={{ y: subTextY }}
         >
-            <p>This text is on top of everything.</p>
+            <p>Scroll down to see the effect.</p>
         </motion.div>
 
 
